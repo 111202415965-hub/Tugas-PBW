@@ -1,11 +1,11 @@
 # Tugas-PBW
 Tugas mata kuliah PBW Website Pribadi
-<!doctype html>
+
 <html lang="id">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Website Sederhana</title>
+
 </head>
 <body>
 
