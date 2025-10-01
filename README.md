@@ -10,8 +10,7 @@ Tugas mata kuliah PBW Website Pribadi
 <body>
 
   <header>
-    <h1>Website Sederhana</h1>
-    <p></p>
+
   </header>
 
   <nav>
